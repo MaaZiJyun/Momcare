@@ -13,8 +13,8 @@ public class Automation {
 
     public static void login(AndroidDriver<AndroidElement> driver) throws InterruptedException {
 
-        String email = "domukino@gmail.com";
-        String pswd = "066811";
+        String email = "ciscolevi@outlook.com";
+        String pswd = "testmm123";
 
         //login process
         Thread.sleep(10000);
